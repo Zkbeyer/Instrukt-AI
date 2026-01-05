@@ -30,13 +30,6 @@ Project documentation is maintained in the `docs/` directory.
 
 ---
 
-## Security
-Sensitive data such as API keys and credentials are stored in environment variables and are **never committed** to the repository.
-
-See `.env.example` for required configuration.
-
----
-
 ## Status
 **Current Phase:** Sprint 0 – Planning & Architecture
 
